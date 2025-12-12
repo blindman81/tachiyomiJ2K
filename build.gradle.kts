@@ -1,4 +1,4 @@
-plugins {
+ plugins {
     id(Plugins.kotlinter.name) version Plugins.kotlinter.version
     id(Plugins.gradleVersions.name) version Plugins.gradleVersions.version
     id(Plugins.jetbrainsKotlin) version AndroidVersions.kotlin apply false
